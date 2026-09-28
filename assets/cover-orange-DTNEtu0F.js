@@ -1,0 +1,1 @@
+var e=`/presentation/assets/cover-orange-BYFlwEc7.jpeg`;export{e as t};
