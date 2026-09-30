@@ -1,0 +1,1 @@
+var e=`/presentation/assets/speaker-innokentiy-C-u2vjZa.png`;export{e as t};

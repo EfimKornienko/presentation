@@ -1,0 +1,1 @@
+import{L as e,y as t}from"./modules/shiki-CZi4fo_i.js";import{et as n}from"./index-CHVIo7vD.js";var r={class:`mt-pattern-field`,"aria-hidden":`true`},i={__name:`MagnitPatternField`,setup(i){let{$slidev:a,$nav:o,$clicksContext:s,$clicks:c,$page:l,$renderContext:u,$frontmatter:d}=n();return(n,i)=>(e(),t(`div`,r))}};export{i as t};
